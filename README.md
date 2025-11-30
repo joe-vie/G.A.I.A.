@@ -9,5 +9,13 @@ Hey yalls! It's Jovie, back with another cool passion project that just so happe
 The goal of G.A.I.A is to foster sustainable habits and trendy fashion where DIY becomes the best form of sustainable living
 through easy-to-follow tutorials and competition in leaderboards.
 
+### Brand Logo
+<img src = "Srcs/G.A.I.A. Brand Logo.png" alt = "Brand-Logo-GAIA">
+This is the brand logo that I wanted to go for! It looks super cute! :D
+
 ### Brand Symbolism
-<img src = "Srcs/Brand Symbolism Design.png" >
+<img src = "Srcs/Brand Symbolism Design.png" alt = "Brand-Symbolism-Design-GAIA">
+There was a lot that comes into play when it comes to brand designs. May this image serve to explain some of those intricate pieces
+
+### Wireframe
+TBD - currently working on it as I'm writing this >:DDD
