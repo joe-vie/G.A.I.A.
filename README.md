@@ -18,4 +18,4 @@ This is the brand logo that I wanted to go for! It looks super cute! :D
 There was a lot that comes into play when it comes to brand designs. May this image serve to explain some of those intricate pieces
 
 ### Wireframe
-TBD - currently working on it as I'm writing this >:DDD
+Can be accessed here:<a href: "https://www.figma.com/design/pOxSSb0sBmdareVpAwxXYJ/GAIA-Wireframe?node-id=252-128&t=mjof47dw11zGHOKO-1">G.A.I.A. Figma Wireframe</a>
